@@ -6,8 +6,6 @@
 The **Weather Analytics Power BI Dashboard** is an interactive data visualization project designed to provide real-time weather conditions, air quality insights, and short-term forecasts.  
 It helps users quickly understand climate patterns, environmental health, and upcoming weather changes through an intuitive and visually rich dashboard.
 
-This project is ideal for **data analytics portfolios**, **environmental analysis**, and **business intelligence demonstrations**.
-
 ---
 
 ## 🎯 Purpose of the Project
